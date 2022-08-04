@@ -5,3 +5,4 @@
 -Implement typescript
 -Implement test suite
 -Implement styles
+-Implement dotenv
